@@ -6,7 +6,7 @@ export function SocialProof() {
     {
       name: "Sarah Jenkins",
       issue: "Motorway Breakdown",
-      text: "Broke down on the M25 at 2 AM. Quick Recovery were there in 35 minutes. The driver was professional and got me and my car home safely. Highly recommended.",
+      text: "Broke down on the M25 at 2 AM. Trust Recovery were there in 35 minutes. The driver was professional and got me and my car home safely. Highly recommended.",
       rating: 5
     },
     {

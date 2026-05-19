@@ -7,10 +7,10 @@ export function Footer() {
           <div className="col-span-2 md:col-span-1">
             <div className="flex items-center gap-2 mb-6">
               <div className="w-8 h-8 bg-brand-yellow rounded flex items-center justify-center transform -skew-x-12">
-                 <span className="font-heading font-bold text-brand-dark text-sm transform skew-x-12">QR</span>
+                 <span className="font-heading font-bold text-brand-dark text-sm transform skew-x-12">TR</span>
               </div>
               <span className="font-heading font-bold text-lg text-white tracking-tight">
-                Quick Recovery <span className="text-brand-yellow">24/7</span>
+                Trust <span className="text-brand-yellow">Recovery</span>
               </span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed mb-6">
@@ -65,7 +65,7 @@ export function Footer() {
             <div className="space-y-3 text-sm">
               <a href="tel:07882368634" className="block text-brand-yellow font-bold text-lg mb-1">07882 368 634</a>
               <a href="tel:07477650680" className="block text-brand-yellow font-bold text-lg mb-3">07477 650 680</a>
-              <p className="text-gray-400"><a href="mailto:swiftrecover247@gmail.com" className="hover:text-brand-yellow">swiftrecover247@gmail.com</a></p>
+              <p className="text-gray-400"><a href="mailto:help@trustrecovery.co.uk" className="hover:text-brand-yellow">help@trustrecovery.co.uk</a></p>
               <p className="text-gray-400">Dispatch Center: West London, UK</p>
             </div>
           </div>
@@ -73,7 +73,7 @@ export function Footer() {
         </div>
 
         <div className="pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4">
-          <p className="text-gray-500 text-sm">© {new Date().getFullYear()} Quick Recovery 24/7. All rights reserved.</p>
+          <p className="text-gray-500 text-sm">© {new Date().getFullYear()} Trust Recovery. All rights reserved.</p>
           <div className="flex items-center gap-4 text-xs text-gray-600">
             <span>Fully Insured</span>
             <span>•</span>

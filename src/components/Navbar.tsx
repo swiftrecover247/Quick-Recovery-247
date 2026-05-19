@@ -12,11 +12,11 @@ export function Navbar() {
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center gap-2">
             <div className="w-10 h-10 bg-brand-yellow rounded-lg flex items-center justify-center transform -skew-x-12">
-               <span className="font-heading font-bold text-brand-dark text-xl transform skew-x-12">QR</span>
+               <span className="font-heading font-bold text-brand-dark text-xl transform skew-x-12">TR</span>
             </div>
             <div className="flex flex-col">
               <span className="font-heading font-bold text-xl leading-none text-white tracking-tight">
-                Quick Recovery <span className="text-brand-yellow">24/7</span>
+                Trust <span className="text-brand-yellow">Recovery</span>
               </span>
             </div>
           </div>
